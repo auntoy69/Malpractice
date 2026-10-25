@@ -4,20 +4,17 @@
 
 > **Blackwood Hospital, 06:58.**
 >
-> Blackwood was a good hospital once. Private, quiet, expensive - the kind of place where the theatre list ran on time and the
-> coffee in the staff room was real.
+> Blackwood was a good hospital once. Private, quiet, expensive - the kind of place where the theatre list ran on time and the coffee in the staff room was real.
 >
-> Then the night porter stopped answering his radio. On the CCTV he steps back out of the lift forty minutes later, smiling, and
-> clocks in for a shift he was never rostered for. Nobody thinks anything of it. Nobody ever does.
+> Then the night porter stopped answering his radio. On the CCTV he steps back out of the lift forty minutes later, smiling, and clocks in for a shift he was never rostered for. Nobody thinks anything of it. Nobody ever does.
 >
-> They don't break in. They take a face - a colleague's, a friend's, yours - and wear it perfectly: the voice, the handwriting,
-> the way you take your tea, the password you never wrote down. They are not human. They never were. The staff call them
-> **Doppelgangers**, when they dare to call them anything at all.
+> They don't break in. They take a face - a colleague's, a friend's, yours - and wear it perfectly: the voice, the handwriting, the way you take your tea, the password you never wrote down. They are not human. They never were. The staff call them **Doppelgangers**, when they dare to call them anything at all.
 >
-> They don't want money, and they don't want the drugs locked in the medication room. They want every human being gone - and a
-> hospital, where everyone wears the same scrubs and the same mask and the patients can't run, is the perfect place to start.
+> They don't want money, and they don't want the drugs locked in the medication room. They want every human being gone - and a hospital, where everyone wears the same scrubs and the same mask and the patients can't run, is the perfect place to start.
 >
-> This morning there are five names on the theatre list. Some of the surgeons standing next to you are not who they say they are.
+> This morning there are five names on the theatre list. Find your patients, check their wristbands against their records, prepare a suite, scrub in and operate - before the shift turns on you. Keep your phone close, and don't trust every text you get.
+>
+> Some of the surgeons standing next to you are not who they say they are.
 
 ## Download
 
@@ -78,15 +75,14 @@ Tab inventory · T phone · Y phone torch · M mute voice · Esc menu. Every key
 
 ## Coming in the next build
 
-In development - not in the current download yet:
+*In development - not in the current download yet.*
 
-- **Humans vs Doppelgangers** in the game itself, with a reveal at the start of the shift telling you which one you are.
-- **Specialisations:** a personnel terminal on the lobby table where you pick one specialisation for each side, hero-select
-  style. Whichever side the shift deals you, you play that side's pick. The first specialisations are still being designed.
-- A **shift briefing** by text from the Surgical Suites Manager - and the Doppelgangers hear from someone else.
-- **Phone:** notification sound on/off (**N**) or a silent buzz, chats you can scroll back through.
-- Drawn mouse-button icons in every control hint, glass medicine cabinets in the medication rooms, steadier gun shots,
-  a head-bob slider, and more.
+- **Humans vs Doppelgangers.** The two sides get their names: Blackwood's **Humans**, and the **Doppelgangers** wearing their faces. When the shift starts, a reveal tells you which one you are - over a heartbeat, or through static.
+- **Specialisations.** A personnel terminal on the lobby table: pick one specialisation for each side, hero-select style. Whichever side the shift deals you, you play that side's pick. The first specialisations are still being designed.
+- **Shift briefing.** The Surgical Suites Manager texts everyone the day's job. The Doppelgangers hear from someone else.
+- **Phone.** Notification sound (on/off) or a silent buzz, a HUD notice that only says a message arrived, chats you can scroll back through, and a selection box that stays put.
+- **Mouse buttons** in every control hint are drawn as a mouse with that button lit.
+- Medication rooms lined with glass medicine cabinets, a new lab analyzer screen, a head-bob slider, steadier first-person gun shots, first aid that fills on its own, more detailed platters of food - and the lifts no longer make that noise.
 
 ## Known issues
 
