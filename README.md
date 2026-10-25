@@ -1,6 +1,6 @@
 # Malpractice
 
-*An online multiplayer hospital game of social deduction - and surgery.*
+*An online multiplayer hospital game of social deduction.*
 
 > **Blackwood Hospital, 06:58.**
 >
