@@ -31,17 +31,18 @@ Requirements: Windows 10/11 64-bit, a DirectX 12 graphics card, and **Steam runn
    choose **More info → Run anyway**: the build isn't code-signed.
 3. One player picks **CREATE LOBBY**. Everyone else picks **JOIN LOBBY** and joins that lobby, or accepts the host's
    Steam invite. Everyone needs the same version.
-4. In the lobby, dress up at the wardrobe if you like, then everyone presses the **Ready** button and the host pulls the
-   start lever (**F**).
+4. In the lobby, dress up at the wardrobe if you like and choose the specialisation you'd prefer at the personnel terminal
+   on the table. Then everyone presses the **Ready** button and the host pulls the start lever (**F**).
 
 ## The shift
 
 Everyone starts in the lifts of Blackwood's reception. Most of you are **Humans** - the surgical staff. One or more of you
-are **Doppelgangers**, wearing a colleague's face (the current download still calls the two sides the medical staff and the
-evil players). Nobody knows who is who - voice chat is open-mic, so talk.
+are **Doppelgangers**, wearing a colleague's face. A reveal tells you which you are and which specialisation you were dealt,
+and nobody else knows - voice chat is open-mic, so talk.
 
 **Humans** work through today's theatre list, shown on the big screen in the conference room off reception: five patients,
-spread over two surgical wings with eighteen beds. For each patient on the list:
+spread over two surgical wings with eighteen beds. The Surgical Suites Manager texts everyone the day's job. For each patient
+on the list:
 
 1. Find them on the wards and check their wristband against the patient record: name, date of birth and MRN.
 2. Prepare a Surgical Suite: unlock it with that wing's **Surgical Suite key**, load the medication trolley with the five
@@ -59,30 +60,38 @@ patient ruins the surgery. Keys, keycards (Laboratory, Medication Room, Weaponry
 furniture and crates: search them with **F**. Anyone who goes down can be revived with a full **First Aid Package**.
 
 **Doppelgangers** look like everyone else. Their phone's **Aura** app shows the staff through walls, and where the useful
-things are hidden. Their job: put every human on the floor before the list is finished.
+things are hidden, and **The Hive** texts them too. Their job: put every human on the floor before the list is finished.
 
 - **Humans win** when all five listed patients have been operated on and are resting in Recovery, or when every
   Doppelganger is down.
 - **Doppelgangers win** when every human is down.
 
+The hospital goes dark at night, and it stays dark until morning: keep your phone's torch handy.
+
+## Specialisations
+
+Every player is dealt a specialisation when the shift starts, and either side can get any of them: a Human can be The Bomb,
+a Doppelganger can be the Loot Goblin.
+
+The personnel terminal on the lobby table is for your **preference**. You have a **50% chance** of getting the one you chose,
+otherwise you get one of the others. If several players draw the same one, it goes to one of them at random.
+
+| | Specialisation | What it does |
+|---|---|---|
+| S-01 | **Loot Goblin** | No ability: 8 item slots instead of 2, on keys 1 to 8. |
+| S-02 | **Friendly Colleague** | Face a downed player and press **1**: they are up at once, with full HP. 2 minute cooldown. |
+| S-03 | **The Bomb** | Press **1** to arm a bomb: the next thing you use gets it, and only you can see it. The next person to use it is blown off their feet and downed. 120 s cooldown. |
+| S-04 | **The Ghost** | Press **1** to go completely invisible for 30 s, along with everything you hold or wear; only what you drop or leave stuck in somebody stays in sight. Your footsteps are 20% louder meanwhile. Press again to reappear. 120 s cooldown. |
+| S-05 | **Night Hunter** | Only while the hospital is dark: press **1** for 300% movement speed, 300% stamina and 300% stamina regen, until the lights come back on. |
+
 ## Controls
 
-WASD move · Shift sprint · C crouch · Space jump · F interact · E second action · LMB use / attack · 1 / 2 hands · G drop ·
-Tab inventory · T phone · Y phone torch · M mute voice · Esc menu. Every key can be changed in **Settings › Controls**.
+WASD move · Shift sprint · C crouch · Space jump · F interact · E second action · LMB use / attack · 1 specialisation ability ·
+2 / 3 hands · G drop · Tab inventory · T phone · Y phone torch · M mute voice · Esc menu. Every key can be changed in
+**Settings › Controls**.
 
-**Phone:** mouse wheel select · LMB open / confirm · RMB back.
+**Phone:** mouse wheel select · LMB open / confirm · RMB back · N notification sound on / off.
 **Surgery:** mouse + hold LMB to follow the cut line · W A S D for instrument calls · Space to stabilise · Esc to step away.
-
-## Coming in the next build
-
-*In development - not in the current download yet.*
-
-- **Humans vs Doppelgangers.** The two sides get their names: Blackwood's **Humans**, and the **Doppelgangers** wearing their faces. When the shift starts, a reveal tells you which one you are - over a heartbeat, or through static.
-- **Specialisations.** A personnel terminal on the lobby table: pick one specialisation for each side, hero-select style. Whichever side the shift deals you, you play that side's pick. The first specialisations are still being designed.
-- **Shift briefing.** The Surgical Suites Manager texts everyone the day's job. The Doppelgangers hear from someone else.
-- **Phone.** Notification sound (on/off) or a silent buzz, a HUD notice that only says a message arrived, chats you can scroll back through, and a selection box that stays put.
-- **Mouse buttons** in every control hint are drawn as a mouse with that button lit.
-- Medication rooms lined with glass medicine cabinets, a new lab analyzer screen, a head-bob slider, steadier first-person gun shots, first aid that fills on its own, more detailed platters of food - and the lifts no longer make that noise.
 
 ## Known issues
 
