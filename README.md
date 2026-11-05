@@ -57,16 +57,21 @@ on the list:
 
 Nothing tells you an operation was on the right patient, so keep your own list - and anything unsterile touching the draped
 patient ruins the surgery. Keys, keycards (Laboratory, Medication Room, Weaponry), medications and the odd weapon are hidden in
-furniture and crates: search them with **F**. Anyone who goes down can be revived with a full **First Aid Package**.
+furniture and crates: search them with **F**. Keys and keycards are only hidden in rooms that need none to enter, and everyone
+has four key slots for them. There's enough for everyone to stand a chance: with x Doppelgangers and y Humans, each wing has
+x + y/2 Surgical Suite keys and each locked room x + y/2 keycards, and the rest of the loot scales the same way. Anyone who goes
+down can be revived with a full **First Aid Package**.
 
-**Doppelgangers** look like everyone else. Their phone's **Aura** app shows the staff through walls, and where the useful
-things are hidden, and **The Hive** texts them too. Their job: put every human on the floor before the list is finished.
+Glass walls and the glass in double doors shatter when a weapon hits them, so a locked room with a window isn't always locked.
+
+**Doppelgangers** look like everyone else, one in every three players, and **The Hive** texts them too. Their job: put every
+human on the floor before the list is finished.
 
 - **Humans win** when all five listed patients have been operated on and are resting in Recovery, or when every
   Doppelganger is down.
 - **Doppelgangers win** when every human is down.
 
-The hospital goes dark at night, and it stays dark until morning: keep your phone's torch handy.
+The lights go out from 9 PM to 9 AM: keep your phone's torch handy.
 
 ## Specialisations
 
@@ -79,10 +84,11 @@ otherwise you get one of the others. If several players draw the same one, it go
 | | Specialisation | What it does |
 |---|---|---|
 | S-01 | **Loot Goblin** | No ability: 8 item slots instead of 2, on keys 1 to 8. |
-| S-02 | **Friendly Colleague** | Face a downed player and press **1**: they are up at once, with full HP. 2 minute cooldown. |
+| S-02 | **Friendly Colleague** | A downed player in reach and in sight is outlined. Press **1**: one second later they are up, with full HP. 50 s cooldown. |
 | S-03 | **The Bomb** | Press **1** to arm a bomb: the next thing you use gets it, and only you can see it. The next person to use it is blown off their feet and downed. 120 s cooldown. |
-| S-04 | **The Ghost** | Press **1** to go completely invisible for 30 s, along with everything you hold or wear; only what you drop or leave stuck in somebody stays in sight. Your footsteps are 20% louder meanwhile. Press again to reappear. 120 s cooldown. |
+| S-04 | **The Ghost** | Press **1** to go completely invisible for 30 s, along with everything you hold or wear; only what you drop or leave stuck in somebody stays in sight. Walls and doors don't stop you meanwhile. Your footsteps are 20% louder. Press again to reappear. 120 s cooldown. |
 | S-05 | **Night Hunter** | Only while the hospital is dark: press **1** for 300% movement speed, 300% stamina and 300% stamina regen, until the lights come back on. |
+| S-06 | **The Seer** | Sees staff and the useful things through walls, and is the only one with the **Aura** app that says which: press **1** to open it (the phone opens it too). |
 
 ## Controls
 
